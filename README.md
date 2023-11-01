@@ -2,7 +2,7 @@
 
 _This project is a card game made in Python where you can perform various actions with different types of cards by applying their characteristics._
 
-![image](https://github.com/jedahee/Card-Game-Python-CMD/assets/56111700/7e7b3d44-9c68-43be-b7ad-5874b0f6d585)
+![image](https://github.com/jedahee/Card-Game-Python-CMD/assets/56111700/281c93b5-f3e9-4c75-9d25-691210c030d7)
 
 ## Getting Started 🚀
 
